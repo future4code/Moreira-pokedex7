@@ -1,15 +1,20 @@
 # POKEDEX
 
 Nome dos integrantes: 
-- Pessoa 1
-- Pessoa 2
-- Pessoa 3
+- Guilherme Cruz: https://github.com/Cruz-Guilherme
+- Lucas Pasche: https://github.com/llpasche
+- Enzo Pasche: https://github.com/enzopasche
 
-Link do Surge: www.link.com.br
+Link do Surge: pokedex-grupo7.surge.sh
+
+
 
 O que funciona:
-- Item 1
-- Item 2
+- Adição e remoção de Pokémons da Pokédex
+- Detalhes dos Pokémons
+- Sistema de batalhas entre os Pokémons
+- Lista da Pokédex com diferentes tipos de Pokémons
+- Responsividade
 
 O que não funciona: 
 - Item 3
